@@ -8,4 +8,4 @@
 
 ## Other technologies
 - Bootstrap 5.1
-- Jquery
+- Up up
