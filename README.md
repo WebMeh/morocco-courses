@@ -7,5 +7,5 @@
 - Mysql
 
 ## Other technologies
-- Bootstrap
+- Bootstrap 5.1
 - Jquery
