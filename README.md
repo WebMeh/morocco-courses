@@ -5,3 +5,7 @@
 - JAVASCRIPT
 - PHP
 - Mysql
+
+## Other technologies
+- Bootstrap
+- Jquery
