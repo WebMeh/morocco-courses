@@ -5,6 +5,7 @@
 - JAVASCRIPT
 - PHP
 - Mysql
+- Laravel
 
 ## Other technologies
 - Bootstrap 5.1
